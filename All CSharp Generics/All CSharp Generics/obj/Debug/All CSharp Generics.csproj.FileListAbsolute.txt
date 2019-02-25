@@ -1,0 +1,7 @@
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\bin\Debug\All CSharp Generics.exe.config
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\bin\Debug\All CSharp Generics.exe
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\bin\Debug\All CSharp Generics.pdb
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\obj\Debug\All CSharp Generics.csprojAssemblyReference.cache
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\obj\Debug\All CSharp Generics.csproj.CoreCompileInputs.cache
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\obj\Debug\All CSharp Generics.exe
+C:\Users\shuvo\source\repos\All CSharp Generics\All CSharp Generics\obj\Debug\All CSharp Generics.pdb
