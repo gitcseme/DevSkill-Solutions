@@ -25,7 +25,7 @@ namespace All_CSharp_Generics
                 }
                 catch (KeyNotFoundException ex)
                 {
-                    day = "Key is not in map";
+                    day = "Key is not in dictionary";
                 }
 
                 Console.WriteLine(day);

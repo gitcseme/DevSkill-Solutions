@@ -25,7 +25,7 @@ namespace All_CSharp_Generics
             }
             Console.WriteLine();
 
-            // Member sorting using MemberComparer class
+            // Member sorting using MemberComparer class which inherits Comparer
             List<Member> memList = new List<Member>();
             memList.Add(new Member() { ID = 10, Name = "Ashfaq" });
             memList.Add(new Member() { ID = 7, Name = "Rafiq" });

@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Comparer_T_Class_Demo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stack_T_Demo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
