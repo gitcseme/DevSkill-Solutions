@@ -24,10 +24,10 @@ class Ideone
 	}
 	
 	private static void calculate()
-    {
-        f[0] = 1;
-        for (int i = 1; i < 10005; ++i)
-            f[i] = (f[i - 1] * i) % mod;
-    }
+    	{
+	    f[0] = 1;
+	    for (int i = 1; i < 10005; ++i)
+	    	f[i] = (f[i - 1] * i) % mod;
+    	}
 	
 }
